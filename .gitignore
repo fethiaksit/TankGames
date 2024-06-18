@@ -65,3 +65,9 @@ build/
 local.properties
 *.iml
 *.hprof
+
+
+# İzmene almayı istemediğiniz dosyalar/dizinler
+*.log
+temp/
+build/
